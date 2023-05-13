@@ -37,9 +37,11 @@ We process personal data in order to fulfill our statutory obligations.
 - We collect personal data in the following tools:
     - Form on the website
     - Form on the app (contact details)
+    - Step counter onboard mobile application.
 
 We do not sell personal data to third parties.
 The information is protected in an encrypted manner in accordance with laws and regulations.
+
 We store personal data for as long as we deem it necessary according to legal grounds. The information we collect and generated when you use our services and products is processed for different purposes. We anonymize information as much as possible.
 
 ### 4. To whom is the information disclosed?
@@ -55,6 +57,4 @@ We only disclose your information to such subcontractors if and to the extent ne
 - Objection
 - Data portability
 
-You have the right to know what we do with your personal data, such as when and how your personal data is processed and why. You also have the right in some cases to get your personal information out or have it moved, corrected, deleted or blocked.
-When exercising any of your statutory rights, contact us by email, rasul@flowitaberdeen.com.
-
+You have the right to know what we do with your personal data, such as when and how your personal data is processed and why. You also have the right in some cases to get your personal information out or have it moved, corrected, deleted or blocked. When exercising any of your statutory rights, contact us by email, rasul@flowitaberdeen.com.
